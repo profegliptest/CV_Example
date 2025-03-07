@@ -1,5 +1,5 @@
 # CV_Example
-```markdown
+
 ## Johanne Sacreblue
 **Profesión:** _Gestora de Mercados_
 
