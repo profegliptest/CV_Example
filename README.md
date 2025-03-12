@@ -1,7 +1,7 @@
-# CV_Example
+# CV JOHANNE SACREBLUE
 
-## Johanne Sacreblue
-**Profesión:** _Gestora de Mercados_
+## Johanne Sacreblue Trevien
+**Profesión:** _Integración en Operaciones Logisticas_
 
 Como estudiante de Gestión de Mercados en la Universidad de Barcelona, estoy entusiasmada por aplicar mis conocimientos en análisis de mercado, estrategias comerciales y comportamiento del consumidor en un entorno dinámico y desafiante.
 
