@@ -1,7 +1,7 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
+## Armando Casas
 **Profesión:** _Tu profesión_
 
 ## 📞 Contacto
